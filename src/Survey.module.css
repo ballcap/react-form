@@ -3,7 +3,7 @@
 .form {
     background: #f7f7f7;
     color: #393939;
-    padding: 4rem 6rem;
+    padding: 4rem 2rem;
     border: solid 1px #ddd;
     border-radius: 7px;
     margin: 4rem auto;
@@ -35,7 +35,7 @@
 
 .submit {
     border: solid 1px #44f;
-    padding: 2rem 5rem;
+    padding: 2rem 4rem;
     width: 100%;
     margin-top: 60px;
     border-radius: 9px;
